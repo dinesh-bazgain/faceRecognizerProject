@@ -1,0 +1,3 @@
+numpy
+pymongo
+opencv-contrib-python

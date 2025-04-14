@@ -1,0 +1,4 @@
+.DS_Store
+faces/
+trained_classifier.xml
+venv
