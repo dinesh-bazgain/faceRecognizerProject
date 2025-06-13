@@ -10,10 +10,10 @@ This project is a complete face recognition system with a graphical user interfa
 
 ## Features
 
-- ## **User Registration:** Capture facial data with webcam
+- User Registration: Capture facial data with webcam
 - Database Integration: Store user information in MongoDB
 - Face Detection: Using OpenCV's Haar Cascade classifier
-- Face Recognition: Using LBPH (Local Binary Patterns Histograms) algorithm
+- Face Recognition: Using the LBPH (Local Binary Patterns Histograms) algorithm
 - Real-time Recognition: Identify registered users through webcam feed
 
 ---
