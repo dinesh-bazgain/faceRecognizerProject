@@ -59,8 +59,8 @@ This project is a complete face recognition system with a graphical user interfa
 
 ### Future Improvements
 
-- Improve UI for better user experience
-- Make a real world impact
+- Improve UI for a better user experience
+- Make a real-world impact
 
 ---
 
@@ -79,11 +79,9 @@ Feel free to reach out to me via [email](dinesh.bazgain@gmail.com) or open an is
 ## Demo Images
 
 <p align="center">
-  <img src="demo_image.png" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="demo_image2.png" width="200"/>
+  <img src="demo_image.png" width="600"/>
+  <img src="demo_image2.png" width="400"/>
 </p>
 
-### Happy coding and converting!!!
-
 ---
+### Happy coding and converting!!!
